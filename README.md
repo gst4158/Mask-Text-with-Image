@@ -5,7 +5,7 @@
 ### Use SVG text to mask read-able text with an image
 
 ***
-### [→ JS Fiddle ←](http://jsfiddle.net/pvm44na9/3/)
+### [→ JS Fiddle ←](https://jsfiddle.net/npyhyzok/)
 ***
 
 Installation
